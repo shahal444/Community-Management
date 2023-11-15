@@ -1,6 +1,6 @@
 # Community-Management
 ## Title: Charity Community Service Management System
-An online platform for booking Your home care tools,Medicines,Mobility aids ,personal care Health care devices.This website makes it easy and online to access the ongoing healthcare charity work at our locations 
+In my project, An online platform for booking  home care tools,Medicines,Mobility aids ,personal care Health care devices.This website makes it easy and online to access the ongoing Charity HealthCare Communities work at our locations 
 ## Description
 
 >Many healthcare charity communities are operating in outdated ways, facing significant challenges in efficiently addressing the needs of their users, including derelict adolescents and chronic patients, as well as the general public. Currently, there is a lack of an online platform for seamlessly booking the necessary assistance required by these users.
