@@ -4,11 +4,9 @@ An online platform for booking Your home care tools,Medicines,Mobility aids ,per
 ## Description
 
 >Many healthcare charity communities are operating in outdated ways, facing significant challenges in efficiently addressing the needs of their users, including derelict adolescents and chronic patients, as well as the general public. Currently, there is a lack of an online platform for seamlessly booking the necessary assistance required by these users.
-
 The existing manual process involves recording user requests, particularly in the case of patients, through traditional methods such as files, records, or books. This manual recording system leads to delays in processing and fulfilling user requirements. Users submit their needs, but the time-consuming nature of the manual recording process results in delayed consideration and fulfillment of these needs.
-
 This prevalent issue is not unique to a single charity community; many are grappling with the inefficiencies of this outdated approach. Recognizing the need for a solution, our project proposes the development of a website that will streamline the process of recording and addressing user needs. This online platform aims to eliminate the delays associated with manual record-keeping, ensuring a more prompt and effective response to the requirements of derelict adolescents, chronic patients, and the wider community.
-
+>
   - My Project  Mfine is an official Website for Booking the medical needs of the helpless,chronic patients . Although all the services provided by 'Mfine' is a Free.
   - Mfine is a socialy relevent online booking system for the dirlict, helpless,,chronic patients.It is established by SSF for the proper use of 'santhwanam'. Most of the people arround the selected locality are using MFine for FREE as a relief during painful days.
 >
