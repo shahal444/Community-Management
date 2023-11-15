@@ -22,3 +22,9 @@ Charity Community Service Management System
 
 - Receive Contributions:
     The people who wish to help the community to improve their services,can contribute some of their earnings to           community.
+
+### Technology Stack
+>I have done my project Frame Works using Python Django 
+>
+- Front-end:  Html , css ,javascript
+- Back-end:  SQLlite-3
