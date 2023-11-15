@@ -10,9 +10,7 @@ Charity Community Service Management System
 >
 ### Providing Services
 
-  -Booking System:
-    An online platform for booking your home care tools,medcines,mobility aids,personal care/health care devices etc...
-  
+- Booking System:An online platform for booking your home care tools,medcines,mobility aids,personal care/health care devices etc..
   -Stock Management:
     At the admin's, the ordered items, health care tools and drugs easily recorded and with which time, quantity,          usage,return .etc..
     How many stocks are existing,how many of them ordered ,delivered,how many of them returnded ,at which time.. can       be easily recordedwoth better database
