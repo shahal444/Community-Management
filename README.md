@@ -3,7 +3,7 @@ Charity Community Service Management System
 
 ## Description
 
->In My Project, An online platform for booking Your home care tools,Medicines,Mobility aids ,personel care Health care devices.This website makes it easy and online to access the ongoing healthcare charity work at our locations 
+>In My Project, An online platform for booking Your home care tools,Medicines,Mobility aids ,personal care Health care devices.This website makes it easy and online to access the ongoing healthcare charity work at our locations 
 
   - My Project  Mfine is an official Website for Booking the medical needs of the helpless,chronic patients . Although all the services provided by 'Mfine' is a Free.
   - Mfine is a socialy relevent online booking system for the dirlict, helpless,,chronic patients.It is established by SSF for the proper use of 'santhwanam'. Most of the people arround the selected locality are using MFine for FREE as a relief during painful days.
